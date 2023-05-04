@@ -2,7 +2,7 @@
 </script>
 
 <main>
-  <h1>Stuff</h1>
+  <h1>Various things</h1>
   <ul class="links">
     <li><a href="https://gotocon.us20.list-manage.com/track/click?u=8b4874e78cc832499709a82a2&id=7177ab0ffd&e=e8e3b3ab9b">YOW Talks 2022</a> (Use password <span>GOTO_YOW!-2022</span>)</li>
   </ul>
